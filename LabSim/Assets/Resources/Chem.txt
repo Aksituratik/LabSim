@@ -1,0 +1,12 @@
+H2O
+HCl
+HCOOH w3.75
+NH4OH w4.75
+KOH
+Ba(OH)2
+H2SO4
+HNO3
+ind phenolphthalein [8.3,10.0] [9CC8DB,C8A2C8,FF00FF]
+ind litmus [4.5,8.3] [FF6D6D,7877FF,2928FF]
+ind methyl_orange [3.1,4.4] [EAAC9C,fffdd0,ffe135]
+
